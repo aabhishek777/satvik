@@ -44,7 +44,7 @@ const Hero = () => {
                 className="btn btn-light p-3 m-3"
                 style={{ border: "1px solid #000", width: "12rem" }}
               >
-                Watch video
+                Watch videooooo
               </button>
             </div>
           </div>
