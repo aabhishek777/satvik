@@ -38,7 +38,7 @@ const Hero = () => {
                 className="btn btn-primary p-3 ml-3 "
                 style={{ backgroundColor: "#8675E1", width: "12rem" }}
               >
-                View Course
+                View Courseaaaa
               </button>
               <button
                 className="btn btn-light p-3 m-3"
